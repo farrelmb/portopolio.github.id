@@ -110,6 +110,7 @@ footer{
 .jajar{
     display: flex;
     justify-content: center;
+        margin-top: 5rem;
 }
 
 .babi{
@@ -199,21 +200,21 @@ footer{
         background-color: bisque;
     }
     .logo{
-        width: 100%;
+        font-size: 2rem;
     }
     header{
         flex-direction: column;
         gap: 20px;
         height: 100px;
     }
-    nav li{
-        margin-left: 20px;
+    nav li{    
+        margin-left: 20px;    
     }
     .air{
-        height: 230px;
+        height: 280px;
     }
     .udara{
-        height: 210px;
+        height: 240px;
     }
     .main-food {
         display: flex;
@@ -223,5 +224,6 @@ footer{
         display: flex;
         justify-content: center;  
     }
+
 }
 
